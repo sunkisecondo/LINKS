@@ -187,10 +187,10 @@ img {
         left: calc(50% - 200px / 2);
         top: 20%;
     }
+
     #containerattrezzatura {
-        position: absolute;
         left: calc(50% - 200px / 2);
-        top: 100%;
+        top: 90%;
     }
 }
 
@@ -273,6 +273,29 @@ img {
 }
 
 @media only screen and (max-width: 1000px) {
+    #tiktok {
+        top: 20%;
+    }
+
+    #instagram {
+        top: 35%;
+    }
+
+    #discord {
+        top: 50%;
+    }
+
+    #spotify {
+        top: 65%;
+    }
+
+    #telegram {
+        top: 80%
+    }
+
+    #github {
+        top: 105%;
+    }
     #containerchisono {
         left: 25%;
     }
@@ -282,19 +305,65 @@ img {
 }
 
 @media only screen and (max-width: 1500px) {
+    #tiktok {
+        top: 30%;
+    }
+
+    #instagram {
+        top: 45%;
+    }
+
+    #discord {
+        top: 60%;
+    }
+
+    #spotify {
+        top: 75%;
+    }
+
+    #telegram {
+        top: 90%
+    }
+
+    #github {
+        top: 115%;
+    }
     #containerchisono {
         left: 33%;
     }
-        #containerattrezzatura {
-            left: 53%;
+    #containerattrezzatura {
+        left: 53%;
     }
 }
 
 @media only screen and (max-width: 1100px) {
+    #tiktok {
+        top: 20%;
+    }
+
+    #instagram {
+        top: 35%;
+    }
+
+    #discord {
+        top: 50%;
+    }
+
+    #spotify {
+        top: 65%;
+    }
+
+    #telegram {
+        top: 80%
+    }
+
+    #github {
+        top: 105%;
+    }
     #containerchisono {
         left: 23%;
     }
-        #containerattrezzatura {
-            left: 63%;
+    #containerattrezzatura {
+        left: 63%;
     }
 }
