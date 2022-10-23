@@ -71,11 +71,10 @@ body {
     position: absolute;
     left: calc(50% - 100px / 2);
     top: 8%;
-}
-
-#prf:hover {
     box-shadow: 0 0 50px 0 orangered;
 }
+
+
 
 img {
     width:75px;
@@ -126,7 +125,8 @@ img {
 }
 
 /* Phone */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 475px){
+
     .tutti {
         width: 200px;
         left: calc(50% - 200px / 2);
@@ -136,23 +136,23 @@ img {
     }
 
     #tiktok {
-        top: 20%;
+        top: 30%;
     }
 
     #instagram {
-        top: 35%;
+        top: 45%;
     }
 
     #discord {
-        top: 50%;
+        top: 60%;
     }
 
     #spotify {
-        top: 65%;
+        top: 75%;
     }
 
     #telegram {
-        top: 80%
+        top: 90%
     }
 
     #github {
@@ -166,7 +166,7 @@ img {
     }
 
     #prf {
-        top: 7%;
+        top: 11%;
     }
 
     img {
@@ -204,35 +204,35 @@ img {
     }
 
     #tiktok {
-        top: 20%;
+        top: 25%;
     }
 
     #instagram {
         font-size: 20px;
-        top: 30%;
+        top: 35%;
     }
 
     #discord {
-        top: 40%;
+        top: 45%;
     }
 
     #spotify {
-        top: 50%;
+        top: 55%;
     }
 
     #telegram {
-        top: 60%;
+        top: 65%;
     }
 
     #github {
-        top: 70%;
+        top: 75%;
     }
 
     #prf {
         width: 75px;
         left: calc(50% - 75px / 2);
         height: 75px;
-        top: 9%;    
+        top: 10%;    
     }
 
     #titolo {
@@ -269,101 +269,5 @@ img {
         top: 60%;
         font-size: 12px;
         text-align: start;
-    }
-}
-
-@media only screen and (max-width: 1000px) {
-    #tiktok {
-        top: 20%;
-    }
-
-    #instagram {
-        top: 35%;
-    }
-
-    #discord {
-        top: 50%;
-    }
-
-    #spotify {
-        top: 65%;
-    }
-
-    #telegram {
-        top: 80%
-    }
-
-    #github {
-        top: 105%;
-    }
-    #containerchisono {
-        left: 25%;
-    }
-        #containerattrezzatura {
-            left: 55%;
-    }
-}
-
-@media only screen and (max-width: 1500px) {
-    #tiktok {
-        top: 30%;
-    }
-
-    #instagram {
-        top: 45%;
-    }
-
-    #discord {
-        top: 60%;
-    }
-
-    #spotify {
-        top: 75%;
-    }
-
-    #telegram {
-        top: 90%
-    }
-
-    #github {
-        top: 115%;
-    }
-    #containerchisono {
-        left: 33%;
-    }
-    #containerattrezzatura {
-        left: 53%;
-    }
-}
-
-@media only screen and (max-width: 1100px) {
-    #tiktok {
-        top: 20%;
-    }
-
-    #instagram {
-        top: 35%;
-    }
-
-    #discord {
-        top: 50%;
-    }
-
-    #spotify {
-        top: 65%;
-    }
-
-    #telegram {
-        top: 80%
-    }
-
-    #github {
-        top: 105%;
-    }
-    #containerchisono {
-        left: 23%;
-    }
-    #containerattrezzatura {
-        left: 63%;
     }
 }
