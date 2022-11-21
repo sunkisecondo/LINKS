@@ -43,12 +43,10 @@ body {
 #spotify {
     top: 85%;
 }
-#telegram {
-    top: 105%;
-}
+
 
 #github {
-    top: 125%;
+    top: 105%;
 }
 
 #titolo {
@@ -151,12 +149,8 @@ img {
         top: 75%;
     }
 
-    #telegram {
-        top: 90%
-    }
-
     #github {
-        top: 105%;
+        top: 90%;
     }
 
     #titolo {
@@ -220,12 +214,9 @@ img {
         top: 55%;
     }
 
-    #telegram {
-        top: 65%;
-    }
 
     #github {
-        top: 75%;
+        top: 65%;
     }
 
     #prf {
