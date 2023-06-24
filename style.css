@@ -149,16 +149,13 @@ img {
         top: 45%;
     }
 
-    #discord {
+
+    #spotify {
         top: 60%;
     }
 
-    #spotify {
-        top: 75%;
-    }
-
     #github {
-        top: 90%;
+        top: 75%;
     }
 
     #titolo {
@@ -224,17 +221,13 @@ img {
         top: 35%;
     }
 
-    #discord {
-        top: 45%;
-    }
-
     #spotify {
-        top: 55%;
+        top: 45%;
     }
 
 
     #github {
-        top: 65%;
+        top: 55%;
     }
 
     #prf {
