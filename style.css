@@ -149,6 +149,10 @@ img {
         top: 45%;
     }
 
+    #instagram a {
+        font-size: 40px;
+    }
+
 
     #spotify {
         top: 60%;
@@ -210,6 +214,7 @@ img {
         height: 50px;
         left: calc(50% - 100px / 2);
         font-size: 25px;
+        text-align: center;
     }
 
     #tiktok {
@@ -217,10 +222,12 @@ img {
     }
 
     #instagram {
-        font-size: 20px;
         top: 35%;
     }
 
+    #instagram a {
+        font-size: 20px;
+    }
     #spotify {
         top: 45%;
     }
